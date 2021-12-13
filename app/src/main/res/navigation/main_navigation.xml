@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_navigation"
+    app:startDestination="@id/baseFragment">
+
+    <fragment
+        android:id="@+id/baseFragment"
+        android:name="com.ahmadfma.project_sistem_informasi.ui.main.base.BaseFragment"
+        android:label="fragment_base"
+        tools:layout="@layout/fragment_base" >
+        <action
+            android:id="@+id/action_baseFragment_to_detailNewsFragment"
+            app:destination="@id/detailNewsFragment" />
+        <action
+            android:id="@+id/action_baseFragment_to_searchFragment"
+            app:destination="@id/searchFragment" />
+        <action
+            android:id="@+id/action_baseFragment_to_categoriedNewsFragment"
+            app:destination="@id/categoriedNewsFragment" />
+        <action
+            android:id="@+id/action_baseFragment_to_listBeritaFragment"
+            app:destination="@id/listBeritaFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/detailNewsFragment"
+        android:name="com.ahmadfma.project_sistem_informasi.ui.main.detail.DetailNewsFragment"
+        android:label="fragment_detail_news"
+        tools:layout="@layout/fragment_detail_news" />
+    <fragment
+        android:id="@+id/searchFragment"
+        android:name="com.ahmadfma.project_sistem_informasi.ui.main.search.SearchFragment"
+        android:label="fragment_search"
+        tools:layout="@layout/fragment_search" >
+        <action
+            android:id="@+id/action_searchFragment_to_detailNewsFragment"
+            app:destination="@id/detailNewsFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/categoriedNewsFragment"
+        android:name="com.ahmadfma.project_sistem_informasi.ui.main.base.category.CategoriedNewsFragment"
+        android:label="fragment_categoried_news"
+        tools:layout="@layout/fragment_categoried_news" >
+        <action
+            android:id="@+id/action_categoriedNewsFragment_to_detailNewsFragment"
+            app:destination="@id/detailNewsFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/listBeritaFragment"
+        android:name="com.ahmadfma.project_sistem_informasi.ui.main.List.ListBeritaFragment"
+        android:label="fragment_list_berita"
+        tools:layout="@layout/fragment_list_berita" >
+        <action
+            android:id="@+id/action_listBeritaFragment_to_detailNewsFragment"
+            app:destination="@id/detailNewsFragment" />
+    </fragment>
+</navigation>

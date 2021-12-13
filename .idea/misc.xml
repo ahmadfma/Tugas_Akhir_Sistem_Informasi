@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/project_sistem_informasi/app/src/main/res/drawable/bottom_navigation_color_selector.xml" value="0.2703125" />
+        <entry key="..\:/Android/project_sistem_informasi/app/src/main/res/drawable/bottom_radius.xml" value="0.2703125" />
+        <entry key="..\:/Android/project_sistem_informasi/app/src/main/res/drawable/category_background.xml" value="0.2703125" />
+        <entry key="..\:/Android/project_sistem_informasi/app/src/main/res/drawable/cirlce_shape.xml" value="0.2703125" />
+        <entry key="..\:/Android/project_sistem_informasi/app/src/main/res/drawable/ic_akun.xml" value="0.2703125" />
+        <entry key="..\:/Android/project_sistem_informasi/app/src/main/res/drawable/ic_back.xml" value="0.2703125" />
+        <entry key="..\:/Android/project_sistem_informasi/app/src/main/res/drawable/ic_back2.xml" value="0.2703125" />
+        <entry key="..\:/Android/project_sistem_informasi/app/src/main/res/drawable/ic_bookmark.xml" value="0.2703125" />
+        <entry key="..\:/Android/project_sistem_informasi/app/src/main/res/drawable/ic_bookmark2.xml" value="0.2703125" />
+        <entry key="..\:/Android/project_sistem_informasi/app/src/main/res/drawable/ic_bookmark_pressed.xml" value="0.2703125" />
+        <entry key="..\:/Android/project_sistem_informasi/app/src/main/res/drawable/ic_bookmarks.xml" value="0.2703125" />
+        <entry key="..\:/Android/project_sistem_informasi/app/src/main/res/drawable/ic_comment.xml" value="0.2703125" />
+        <entry key="..\:/Android/project_sistem_informasi/app/src/main/res/drawable/ic_dirawat.xml" value="0.2703125" />
+        <entry key="..\:/Android/project_sistem_informasi/app/src/main/res/drawable/ic_eye.xml" value="0.2703125" />
+        <entry key="..\:/Android/project_sistem_informasi/app/src/main/res/drawable/ic_fav.xml" value="0.2703125" />
+        <entry key="..\:/Android/project_sistem_informasi/app/src/main/res/drawable/ic_fav_border.xml" value="0.2703125" />
+        <entry key="..\:/Android/project_sistem_informasi/app/src/main/res/drawable/ic_fever.xml" value="0.2703125" />
+        <entry key="..\:/Android/project_sistem_informasi/app/src/main/res/drawable/ic_home.xml" value="0.2703125" />
+        <entry key="..\:/Android/project_sistem_informasi/app/src/main/res/drawable/ic_menu.xml" value="0.2703125" />
+        <entry key="..\:/Android/project_sistem_informasi/app/src/main/res/drawable/ic_notifications.xml" value="0.2703125" />
+        <entry key="..\:/Android/project_sistem_informasi/app/src/main/res/drawable/ic_sembuh.xml" value="0.2703125" />
+        <entry key="..\:/Android/project_sistem_informasi/app/src/main/res/drawable/ic_share.xml" value="0.2703125" />
+        <entry key="..\:/Android/project_sistem_informasi/app/src/main/res/drawable/ic_virus.xml" value="0.2703125" />
+        <entry key="..\:/Android/project_sistem_informasi/app/src/main/res/drawable/kategori_button_background.xml" value="0.2703125" />
+        <entry key="..\:/Android/project_sistem_informasi/app/src/main/res/drawable/rounded_background.xml" value="0.2703125" />
+        <entry key="..\:/Android/project_sistem_informasi/app/src/main/res/drawable/stroke_background.xml" value="0.2703125" />
+        <entry key="..\:/Android/project_sistem_informasi/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/project_sistem_informasi/app/src/main/res/layout/activity_start.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/project_sistem_informasi/app/src/main/res/layout/fragment_base.xml" value="0.264" />
+        <entry key="..\:/Android/project_sistem_informasi/app/src/main/res/layout/fragment_categoried_news.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/project_sistem_informasi/app/src/main/res/layout/fragment_covid.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/project_sistem_informasi/app/src/main/res/layout/fragment_detail_news.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/project_sistem_informasi/app/src/main/res/layout/fragment_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/project_sistem_informasi/app/src/main/res/layout/fragment_information.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/project_sistem_informasi/app/src/main/res/layout/fragment_list_berita.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/project_sistem_informasi/app/src/main/res/layout/fragment_profil.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/project_sistem_informasi/app/src/main/res/layout/fragment_save.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/project_sistem_informasi/app/src/main/res/layout/fragment_search.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/project_sistem_informasi/app/src/main/res/layout/item_kategori_btn.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/project_sistem_informasi/app/src/main/res/layout/item_latest_news.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/project_sistem_informasi/app/src/main/res/layout/item_layout_covid_header.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/project_sistem_informasi/app/src/main/res/layout/item_layout_covid_kasus_baru.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/project_sistem_informasi/app/src/main/res/layout/item_layout_covid_provinsi.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/project_sistem_informasi/app/src/main/res/layout/item_layout_covid_total_kasus.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/project_sistem_informasi/app/src/main/res/layout/item_layout_home_kategori.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/project_sistem_informasi/app/src/main/res/layout/item_layout_home_news.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/project_sistem_informasi/app/src/main/res/layout/item_layout_home_trending.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/project_sistem_informasi/app/src/main/res/layout/item_list_news.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/project_sistem_informasi/app/src/main/res/layout/item_list_provinsi.xml" value="0.264" />
+        <entry key="..\:/Android/project_sistem_informasi/app/src/main/res/layout/item_news_trending.xml" value="0.264" />
+        <entry key="..\:/Android/project_sistem_informasi/app/src/main/res/menu/base_bottom_nav.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

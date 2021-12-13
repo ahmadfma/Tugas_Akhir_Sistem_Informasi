@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="abu">#F4F4F4</color>
+    <color name="abu1">#636363</color>
+    <color name="abu2">#CFCFCF</color>
+    <color name="hero">#FF9151</color>
+    <color name="hero2">#10212E</color>
+    <color name="red">#FF6156</color>
+    <color name="green">#0ACEA2</color>
+    <color name="blue">#40B0DF</color>
+    <color name="c1">#FF15191C</color>
+    <color name="c2">#1D232A</color>
+    <color name="c3">#2C343A</color>
+    <color name="yello">#FFD53D</color>
+    <color name="orange">#FF9151</color>
+
+    <color name="Bisnis">#00808a</color>
+    <color name="Science">#005587</color>
+    <color name="Sport">#0db24b</color>
+    <color name="Otomotif">#fb0404</color>
+    <color name="Edukasi">#e75524</color>
+    <color name="Travel">#fdbe34</color>
+    <color name="Health">#1fb9e1</color>
+    <color name="Lifestyle">#378B42</color>
+    <color name="Teknologi">#00c59e</color>
+</resources>

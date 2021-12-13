@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "730886751911",
+    "project_id": "newsapp-1a445",
+    "storage_bucket": "newsapp-1a445.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730886751911:android:3c28ffc2555e566bdd3d82",
+        "android_client_info": {
+          "package_name": "com.ahmadfma.project_sistem_informasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730886751911-u93sgvcr0gc1aan0oejflnss7193n3bf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0WEx3BW5lRNIdg4gwtQH_3H2O8W4aAyE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730886751911-u93sgvcr0gc1aan0oejflnss7193n3bf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
